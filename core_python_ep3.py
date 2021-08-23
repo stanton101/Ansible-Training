@@ -1,8 +1,8 @@
 
-# c = 5
-# while c != 0:
-#     print(c)
-#     c -= 1
+c = 5
+while c != 0:
+    print(c)
+    c -= 1
 
 # while c:
 #     print(c)
@@ -22,11 +22,11 @@
 # if True:
 #     print("its true!")
 
-if False:
-    print("it's true")
+# if False:
+#     print("it's true")
 
-if bool("eggs"):
-    print("Yes please!")
+# if bool("eggs"):
+#     print("Yes please!")
 
 if "eggs":
     print("Yes please")
